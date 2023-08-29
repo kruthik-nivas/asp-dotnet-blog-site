@@ -3466,11 +3466,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Digital Suppliers\\Desktop\\BloggieMVC\\Bloggie\\Bloggie.Web\\Bloggie.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Digital Suppliers\\Desktop\\asp-dotnet-blog-site\\Bloggie\\Bloggie.Web\\Bloggie.Web.csproj",
       "projectName": "Bloggie.Web",
-      "projectPath": "C:\\Users\\Digital Suppliers\\Desktop\\BloggieMVC\\Bloggie\\Bloggie.Web\\Bloggie.Web.csproj",
+      "projectPath": "C:\\Users\\Digital Suppliers\\Desktop\\asp-dotnet-blog-site\\Bloggie\\Bloggie.Web\\Bloggie.Web.csproj",
       "packagesPath": "C:\\Users\\Digital Suppliers\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Digital Suppliers\\Desktop\\BloggieMVC\\Bloggie\\Bloggie.Web\\obj\\",
+      "outputPath": "C:\\Users\\Digital Suppliers\\Desktop\\asp-dotnet-blog-site\\Bloggie\\Bloggie.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Digital Suppliers\\AppData\\Roaming\\NuGet\\NuGet.Config",
